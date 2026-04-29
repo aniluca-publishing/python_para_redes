@@ -1,0 +1,3 @@
+hostname,ip,estado
+R1-GYE,10.10.10.1,up
+SW1-GYE,10.10.10.11,down

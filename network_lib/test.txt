@@ -1,0 +1,3 @@
+#
+OID_base + índice = valor
+#

@@ -1,0 +1,3 @@
+hostname,ip,usuario,clave
+R1-GYE,10.10.10.100,admin,password123
+SW1-GYE,10.10.10.11,admin,password123

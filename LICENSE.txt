@@ -1,0 +1,17 @@
+Copyright (c) 2026 Daniel Llivipuma / ANILUCA PUBLISHING
+
+Este repositorio y el código contenido en él se proporcionan únicamente con fines educativos y de aprendizaje.
+
+Se permite el uso personal y educativo del código, incluyendo pruebas, modificación y ejecución local.
+
+No se autoriza:
+
+- La redistribución comercial del contenido.
+- La republicación total o parcial del libro.
+- La venta del material contenido en este repositorio.
+- La reproducción masiva del contenido con fines comerciales.
+- La eliminación de créditos de autor.
+
+Parte del contenido de este repositorio acompaña al libro "Python para Redes: Programación y automatización con SNMP, SSH, APIs y más desde cero".
+
+Todos los derechos reservados.

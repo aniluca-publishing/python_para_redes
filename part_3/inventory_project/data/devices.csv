@@ -1,0 +1,8 @@
+hostname,ip,version,community,user,level,auth_p,auth_pwd,priv_p,priv_pwd
+R1-GYE,10.10.10.1,2c,public,,,,,,,
+SW1-GYE,10.10.10.11,2c,public,,,,,,,
+SW2-GYE,10.10.10.12,2c,public,,,,,,,
+SW3-GYE,10.10.10.13,2c,public,,,,,,,
+R1-UIO,10.20.10.11,3,,user,authPriv,MD5,pass1,DES,pass2
+SRV1-GYE,example1.com,1,public,,,,,,,
+SRV2-GYE,example111.com,1,public,,,,,,,

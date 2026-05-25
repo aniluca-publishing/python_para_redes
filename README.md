@@ -47,7 +47,7 @@ python_para_redes/
 
 Disponible en Hotmart:
 
-https://hotmart.com/es/club/daniel-francisco-llivipuma-pozo/products
+https://hotmart.com/es/club/daniel-francisco-llivipuma-pozo
 
 ---
 

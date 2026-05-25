@@ -47,9 +47,7 @@ python_para_redes/
 
 Disponible en Hotmart:
 
-```text id="3drq2e"
 https://hotmart.com/es/club/daniel-francisco-llivipuma-pozo/products
-```
 
 ---
 
@@ -62,9 +60,7 @@ Especializado en automatización, monitoreo y observabilidad de redes.
 
 LinkedIn:
 
-```text id="eqm8ub"
 https://www.linkedin.com/in/dllivipuma
-```
 
 🐍 Serie Python Aplicado
 

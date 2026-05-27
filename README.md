@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./python_para_redes_book_cover.png" width="350">
+</p>
+
+---
+
 # Python para Redes
 
 ## Programación y automatización con SNMP, SSH, APIs y más desde cero

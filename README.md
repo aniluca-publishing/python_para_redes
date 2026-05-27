@@ -4,6 +4,16 @@
 
 Repositorio oficial del libro **Python para Redes**.
 
+📘 Libro completo:
+
+https://hotmart.com/es/club/daniel-francisco-llivipuma-pozo
+
+📥 Descarga gratuita de los primeros 4 capítulos:
+
+[Python_para_Redes_Primeros_4_Capitulos.pdf](./Python_para_Redes_Primeros_4_Capitulos.pdf)
+
+---
+
 Este repositorio contiene ejemplos, ejercicios, proyectos y librerías desarrolladas a lo largo del libro.
 
 ---
@@ -32,22 +42,13 @@ El enfoque principal del libro es resolver problemas reales de automatización y
 
 ## 📂 Estructura del repositorio
 
-```text id="4q3h5q"
+```text
 python_para_redes/
 ├── network_lib/
 ├── part_1/
 ├── part_2/
 └── part_3/
 ```
-
-
----
-
-## 📚 Libro completo
-
-Disponible en Hotmart:
-
-https://hotmart.com/es/club/daniel-francisco-llivipuma-pozo
 
 ---
 

@@ -10,12 +10,12 @@
 
 Repositorio oficial del libro **Python para Redes**.
 
-📘 Libro completo:
+🔥 Oferta de lanzamiento: USD $19,99 hasta el 30 de junio.
 
+📘 Libro completo:
 https://hotmart.com/es/club/daniel-francisco-llivipuma-pozo
 
 📥 Muestra extendida gratuita (primeros 4 capítulos):
-
 [Descargar PDF](./Python_para_Redes_Primeros_4_Capitulos.pdf)
 
 
